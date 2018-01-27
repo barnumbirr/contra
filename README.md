@@ -5,7 +5,15 @@ Everything I need for my [Contra 40% ortholinear keyboard](https://cartel.ltd/pr
 
 ## Parts
 
-```coming soon```
+### Cartel Ltd.
+
+* [Contra 40% ortholinear keyboard kit](https://mykeyboard.eu/catalogue/danck_397/)
+
+### Aliexpress
+
+* [Cherry MX Pink Plate Mounted Keyswitch](https://www.aliexpress.com/item/Wholesales-Cherry-Gateron-Silent-Zealio-Kailh-Box-Outemu-Ice-Purple-Switches-Shaft-for-Mechanical-Keyboard-GH60/32844881260.html)
+* [2u PCB Mount Mechanical Keyboard Cap Stabilizer](https://www.aliexpress.com/item/OEM-Cherry-Style-PCB-mounted-PCB-Stabilizers-Satellite-Axis-7u-6-25u-2u-For-MX-Switches/32718144332.html)
+* [XDA Blank Keycaps](https://www.aliexpress.com/item/XDA-blank-keycaps-planck-ace40-xt-Keyset-Blank-Similar-to-DSA-For-MX-Mechanical-Keyboard-Ergo/32824353605.html)
 
 ## Editing layout:
 
@@ -24,9 +32,6 @@ Download .hex formatted firmware after you've applied your changes.
 8. Unplug the ProMicro. Plug it back in. Your computer should detect it as a keyboard.
 9. Short “A1” to “A2” with notepad or a similar application open. Characters should be typed.
 10. If characters appear after shorting “A1” to “A2”, your Pro Micro has been flashed successfully. Let’s build!
-
-<img src="https://raw.githubusercontent.com/mrsmn/contra/master/images/flash_1.png" height=256>
-<img src="https://raw.githubusercontent.com/mrsmn/contra/master/images/flash_2.png" height=256>
 
 ## Reprogramming the Pro Micro:
 
