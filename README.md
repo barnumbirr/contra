@@ -1,18 +1,6 @@
+
 # contra
 Everything I need for my [Contra 40% ortholinear keyboard](https://cartel.ltd/projects/contra).
-
-## Specifications:
-
-|   |   |
-|---|---|
-| Programming | Powered by QMK Firmware |
-| Key Count | 48 (47 w/2u Space) |
-| Switch Compatibility  | Cherry MX, ALPS |
-| Stabilizer Compatibility | Cherry 2u PCB Mount |
-| USB Type | Micro-USB |
-| Top Plate Compatibility | Cherry MX, ALPS |
-| Reversible Back Plate | Yes |
-| Overall Size | 9.1″ × 3.2″ × 0.6″ |
 
 ## Parts
 
