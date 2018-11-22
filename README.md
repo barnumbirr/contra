@@ -15,7 +15,7 @@ Everything I need for my [Contra 40% ortholinear keyboard](https://cartel.ltd/pr
 
 ## Editing layout:
 
-Load ```layout/contra.azerty.json``` into http://kbfirmware.com/.
+Load ```layout/contra.json``` into http://kbfirmware.com/.
 Download .hex formatted firmware after you've applied your changes.
 
 ## Flashing the Pro Micro:
